@@ -21,7 +21,7 @@ function Home() {
           </div>
 
           <div className="carousel-item">
-            <img src="https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/07/432289-10-Best-Running-Shoes-for-Men-1296x728-Header.jpg?w=1155&h=1528" className="img d-block w-100" alt="..." />
+            <img src="https://images.unsplash.com/photo-1607522370275-f14206abe5d3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" className="img d-block w-100" alt="..." />
             <div className="carousel-caption d-none d-md-block">
               <h5>Best Quality</h5>
               <p>Quality Shoes just a click away</p>

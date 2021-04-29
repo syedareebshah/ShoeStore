@@ -7,7 +7,7 @@ import Nav from "./comp/Nav";
 import SingleProduct from "./comp/SingleProduct";
 import Store from "./comp/Store";
 
-function RouterComp() {
+function RouterComponent() {
     return (
         <div>
             <Router>
@@ -18,8 +18,6 @@ function RouterComp() {
                     <Route element={<Store />} path="/Store" />
                     <Route element={<SingleProduct />} path="/Details:id" />
                     <Route element={<ErrorPage />} path="/*" />
-
-
                 </Routes>
                 <Footer />
             </Router>
@@ -28,4 +26,4 @@ function RouterComp() {
     );
 }
 
-export default RouterComp;
+export default RouterComponent;

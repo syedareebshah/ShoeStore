@@ -1,12 +1,12 @@
-import Home from './comp/Home'
-import Nav from './comp/Nav'
-import RouterComp from './Route'
+import React from 'react';
+import RouterComponent from './Router';
+
 
 
 function App() {
   return (
     <div>
-      <RouterComp />
+      <RouterComponent />
     </div>
     
   );
