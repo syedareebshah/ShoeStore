@@ -7,8 +7,7 @@ function App() {
   return (
     <div>
       <RouterComponent />
-    </div>
-    
+    </div>   
   );
 }
 
